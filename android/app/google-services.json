@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037632027459",
+    "project_id": "arca-a3f5b",
+    "storage_bucket": "arca-a3f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037632027459:android:bbe5d8a254ed8b62764df6",
+        "android_client_info": {
+          "package_name": "com.proyecto.arca.proyecto_veterinaria_arca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037632027459-oi6ufg7qbe6iv71g7qg70vamdvl9l4cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.arca.proyecto_veterinaria_arca",
+            "certificate_hash": "a6ddc54e5b43ef0209f1c3e62aa54fcae4acb2e4"
+          }
+        },
+        {
+          "client_id": "1037632027459-e9291dju0ggjmpk661bh829h0ijp7hcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBScX18P1k-FhlhgoD7K5db_dRfskxOcwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037632027459-e9291dju0ggjmpk661bh829h0ijp7hcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
